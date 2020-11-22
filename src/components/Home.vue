@@ -49,50 +49,365 @@
       </p>
     </div>
     <div class="secao-titulo" id="links-uteis">Links Úteis</div>
-    <div class="secao"></div>
-    <div class="secao-titulo" id="espaco">Espaço</div>
-    <div class="secao"></div>
-    <div class="secao-titulo" id="equipamentos">Equipamentos</div>
     <div class="secao">
-      <div class="tiles">
-        <a class="tile" href="#">
+      <div class="logo">
+        Impressão 3D de<br />Placas Braille<br />Site do CTA/IFRS<br />
+        <a href="https://cta-ifrs.github.io/Text2Braille3d/" target="_blank">
           <img
-            title="Wanhao"
-            alt="impressora 3D"
-            src="https://www.poalab.net.br/images/wanhao.png"
-            width="230"
+            title="Braille"
+            alt="Braille"
+            src="../assets/braille.png"
+            width="100"
           />
-          <div class="details">
-            <span class="title">2 Impressoras 3D Wanhao<br />Duplicator 4</span>
-            <span class="info">
-              2 extrusores<br />
-              filamento 1.75mm<br />
-              camada entre 0.1 e 0.5mm<br />
-              área: 225mm x 145mm x 150mm<br />
-              base aquecida<br />
-            </span>
-          </div>
         </a>
       </div>
-      <div class="tiles">
-        <a class="tile" href="#">
+
+      <div class="logo">
+        <a href="https://www.thingiverse.com/" target="_blank">
           <img
-            title="Printrbot"
-            alt="impressora 3D"
-            src="https://www.poalab.net.br/images/printrbot.png"
-            width="230"
+            title="Thingiverse"
+            alt="Thingiverse"
+            src="../assets/thingiverse.png"
+            width="110"
           />
-          <div class="details">
-            <span class="title"
-              >1 Impressora 3D printrbot<br />simple metal</span
-            >
-            <span class="info">
-              filamento de 1.75mm<br />
-              resolução de camada entre 0.1 e 0.5mm<br />
-              área de trabalho: 152mm x 152mm x 152mm<br />
-            </span>
-          </div>
         </a>
+      </div>
+      <div class="logo">
+        <a href="https://www.instructables.com/" target="_blank">
+          <img
+            title="instructables"
+            alt="instructables"
+            src="../assets/InstructablesRobot.png"
+            width="60"
+          />
+        </a>
+        <br />Instructables
+      </div>
+      <div class="logo">
+        <a href="https://www.opendesk.cc/" target="_blank">
+          <img
+            title="Opendesk"
+            alt="Opendesk"
+            src="../assets/opendesk.png"
+            width="150"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="http://fabacademy.org/" target="_blank">
+          <img
+            title="Fab Academy"
+            alt="Fab Academy"
+            src="../assets/fabacademy.png"
+            width="150"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="http://www.fabfoundation.org/" target="_blank">
+          <img
+            title="Fab Foundation"
+            alt="Fab Foundation"
+            src="../assets/fabfoundation.png"
+            width="170"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="https://fab.city/" target="_blank">
+          <img
+            title="Fab City"
+            alt="Fab City"
+            src="../assets/fabcity.png"
+            width="90"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="https://makezine.com/" target="_blank">
+          <img
+            title="makezine"
+            alt="makezine"
+            src="../assets/make.png"
+            width="80"
+          />
+        </a>
+        magazine
+      </div>
+      <div class="logo">
+        <a href="https://www.tinkercad.com/" target="_blank">
+          <img
+            title="tinkercad"
+            alt="tinkercad"
+            src="../assets/tinkercad.png"
+            width="60"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="https://inkscape.org/pt-br/" target="_blank">
+          <img
+            title="inkscape"
+            alt="inkscape"
+            src="../assets/inkscape.png"
+            width="60"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="http://www.makercase.com/" target="_blank">
+          <img
+            title="makercase"
+            alt="makercase"
+            src="../assets/makercase.png"
+            width="60"
+          />
+        </a>
+        <br />MakerCase
+      </div>
+      <div class="logo">
+        <a href="http://aprendizagemcriativa.org/" target="_blank">
+          <img
+            title="RBAC"
+            alt="rede brasileira de aprendizagem criativa"
+            src="../assets/rbac.png"
+            width="150"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        <a href="https://portoalegre.makerfaire.com/" target="_blank">
+          <img
+            title="maker faire porto alegre"
+            alt="maker faire porto alegre"
+            src="../assets/makepoa.png"
+            width="120"
+          />
+        </a>
+      </div>
+      <div class="logo">
+        Projeto <br />Nativos Fabbers<br />
+        <a href="fabbernatives/" target="_blank">
+          <img
+            title="Braille"
+            alt="Braille"
+            src="../assets/logo-parceiro.svg"
+            width="80"
+          />
+        </a>
+      </div>
+    </div>
+    <div class="secao-titulo" id="espaco">Espaço</div>
+    <div class="secao espaco">
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4914.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4915.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4916.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4917.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4918.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4920.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4921.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4922.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4923.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4924.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4925.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4940.jpg"
+      />
+      <img
+        class="espaco-imagens"
+       src="../assets/dsc4942.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4943.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4944.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4946.jpg"
+      />
+      <img
+        class="espaco-imagens"
+        src="../assets/dsc4947.jpg"
+      />
+    </div>
+    <div class="secao-titulo" id="equipamentos">Equipamentos</div>
+    <div class="secao equipamentos">
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Wanhao"
+          alt="impressora 3D"
+          src="../assets/wanhao.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">
+            2 Impressoras 3D Wanhao Duplicator 4
+          </div>
+          <div class="equipamento-info">
+            2 extrusores filamento 1.75mm camada entre 0.1 e 0.5mm área: 225mm x
+            145mm x 150mm base aquecida
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Printrbot"
+          alt="impressora 3D"
+          src="../assets/printrbot.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">
+            1 Impressora 3D printrbot simple metal
+          </div>
+          <div class="equipamento-info">
+            filamento de 1.75mm resolução de camada entre 0.1 e 0.5mm área de
+            trabalho: 152mm x 152mm x 152mm
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Laser"
+          alt="corte a laser"
+          src="../assets/cma6040.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">1 Cortadora Laser CMA6040</div>
+          <div class="equipamento-info">
+            área de corte de 60cm x 40cm potência do laser: 70-80W Espessura do
+            corte: 0-25mm para acrílico Precisão &lt; 0.01mm
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Plotter recorte"
+          alt="Plotter recorte"
+          src="../assets/plottersaga.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">1 Plotter de Recorte SAGA 720i</div>
+          <div class="equipamento-info">
+            largura máxima da mídia: 72cm largura máxima de corte: 62cm laser
+            point velocidade: 600mm/s precisão de repetição: 0.082mm
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Fresadora"
+          alt="Fresadora"
+          src="../assets/fresa1.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">
+            1 Fresadora MTC-200×250 (não operacional)
+          </div>
+          <div class="equipamento-info">
+            área: 200mm x 250mm eixo z: 150mm refrigeração do motor a ar
+            velocidade de rotação programável
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Filabot"
+          alt="Filabot"
+          src="../assets/filabot.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">
+            1 Extrusora de filamento modelo filabot wee
+          </div>
+          <div class="equipamento-info">
+            bico de extrusão de 1.75mm adequado para ABS e PLA taxa de extrusão
+            entre 13 e 51 cm/minuto
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="Plotter"
+          alt="Plotter"
+          src="../assets/plotterhp.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">
+            1 Plotter de Impressão HP T520 não operacional
+          </div>
+          <div class="equipamento-info">
+            alimentação por rolo ou folha largura de impressão: 61cm espessura:
+            até 11.8 milésimos de polegada resolução de impressão: 2400 x 1200
+            dpi
+          </div>
+        </div>
+      </div>
+      <div class="equipamento-item">
+        <img
+          class="equipamento-imagem"
+          title="bancada"
+          alt="bancada"
+          src="../assets/bancada.png"
+          width="230"
+        />
+        <div class="equipamento-detalhes">
+          <div class="equipamento-titulo">Bancada de Eletrônica</div>
+          <div class="equipamento-info">
+            osciloscópio fonte de bancada estação de solda componentes
+            eletrônicos diversos
+          </div>
+        </div>
       </div>
     </div>
     <div class="secao-titulo" id="nossos-canais">Nossos canais</div>
@@ -105,7 +420,7 @@
         <img
           title="facebook"
           alt="facebook"
-          src="https://www.poalab.net.br/images/redes/facebook.png"
+          src="../assets/facebook.png"
           width="50"
         />
       </a>
@@ -117,7 +432,7 @@
         <img
           title="youtube"
           alt="youtube"
-          src="https://www.poalab.net.br/images/redes/youtube.png"
+          src="../assets/youtube.png"
           width="50"
         />
       </a>
@@ -237,11 +552,60 @@ a:hover {
   text-align: center;
 }
 
+.links-uteis {
+  padding: 3%;
+  flex-flow: row wrap;
+}
+
+.espaco {
+  padding: 3%;
+}
+
+.logo {
+  font-size: 1rem;
+  flex: 1;
+  padding: 3%;
+  text-align: center;
+  align-self: center;
+}
+
 .redes-sociais {
   margin: 0 15px;
 }
 
 .link-destaque {
   color: #35469d;
+}
+
+.espaco-imagens {
+  max-width: 250px;
+  padding: 7px;
+}
+
+.equipamentos {
+  display: flex;
+  padding: 10px 80px;
+  flex-flow: row wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.equipamento-item {
+  margin: 20px;
+  min-width: 200px;
+  max-width: 200px;
+}
+
+.equipamento-imagem {
+  max-width: 100px;
+}
+
+.equipamento-titulo {
+  font-size: 0.9rem;
+}
+
+.equipamento-info {
+  font-size: 0.7rem;
 }
 </style>
